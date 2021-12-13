@@ -1,5 +1,4 @@
 import sys,time,random,os
-#pretty cool
 
 begin = 0 #begin input variable
 supportChoice = 0 #support choice variable
